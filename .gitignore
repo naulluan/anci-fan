@@ -1,0 +1,30 @@
+# Claude Code workspace
+.claude/
+.claude-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Build artifacts
+dist/
+build/
+node_modules/
