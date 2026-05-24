@@ -14,9 +14,9 @@
     title: 'ANCI Pro — Quạt Áo Điều Hòa',
     image: 'products/fan/703536670_2260372014793402_1824922452162330043_n.jpg',
     bundles: {
-      standard: { name: 'Tiêu chuẩn', price: 990_000, oldPrice: 1_320_000 },
-      pro:      { name: 'Pro',        price: 1_290_000, oldPrice: 1_720_000 },
-      max:      { name: 'Max',        price: 1_890_000, oldPrice: 2_520_000 },
+      standard: { name: 'Gói Rẻ',         price:   650_000, oldPrice:   870_000 },
+      pro:      { name: 'Gói Phổ Thông',  price:   850_000, oldPrice: 1_130_000 },
+      max:      { name: 'Gói Đầy Đủ',     price: 1_250_000, oldPrice: 1_670_000 },
     }
   };
 
